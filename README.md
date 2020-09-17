@@ -6,6 +6,22 @@ Link to app: [Alps-News](https://quiet-ridge-59002.herokuapp.com/)
 * Note: Articles in deployment are not viewable as NewsAPI is only accessible in production (localhost) due to third-party server configuration. 
 
 ## Project Screenshots
+<p align="center" width="100%">
+  <img src='/screenshots/mainPage.jpg' width='75%' alt='Main page'>
+    <p align='center'>Main Page</p>
+</p>
+<p align="center" width="100%">
+  <img src='/screenshots/signUp.jpg' width='75%' alt='Sign Up page'>
+    <p align='center'>Sign Up Page</p>
+</p>
+<p align="center" width="100%">
+  <img src='/screenshots/selectionMenu.jpg' width='75%'alt='Selection Menu page'>
+    <p align='center'>Selection Menu Page</p>
+</p>
+<p align="center" width="100%">
+  <img src='/screenshots/articles.jpg' width='75%' alt='Articles layout'>
+    <p align='center'>Articles Layout</p>
+</p>
 
 ## Technologies Used
 * ReactJS
