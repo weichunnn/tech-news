@@ -3,7 +3,7 @@
 A personal project / web application used to gather latest news and allow user to filter news based upon preference, built mainly with ***ReactJS, Context API, JavaScript, and CSS***.
 
 Link to app: [Alps-News](https://quiet-ridge-59002.herokuapp.com/)
-* Note: Articles in production are not viewable as NewsAPI is only accessible in developmenet (localhost) due to third-party server configuration. 
+* Note: Articles in production are not viewable as NewsAPI is only accessible in development (localhost) due to third-party server configuration. 
 
 ## Project Screenshots
 <p align="center" width="100%">
